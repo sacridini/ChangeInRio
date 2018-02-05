@@ -749,6 +749,42 @@ var urbano = /* color: #d63000 */ee.FeatureCollection(
       {
         "landcover": 1,
         "system:index": "59"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.049583435058594, -22.694645074741352]),
+      {
+        "landcover": 1,
+        "system:index": "60"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.0499267578125, -22.703988606693752]),
+      {
+        "landcover": 1,
+        "system:index": "61"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.057823181152344, -22.695595293542397]),
+      {
+        "landcover": 1,
+        "system:index": "62"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.05988311767578, -22.699237737889945]),
+      {
+        "landcover": 1,
+        "system:index": "63"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.076534271240234, -22.69717897689827]),
+      {
+        "landcover": 1,
+        "system:index": "64"
+      }),
+    ee.Feature(
+      ee.Geometry.Point([-43.052330017089844, -22.70826424770312]),
+      {
+        "landcover": 1,
+        "system:index": "65"
       })]),
   verde = /* color: #0e8b1e */ee.FeatureCollection(
     [ee.Feature(
